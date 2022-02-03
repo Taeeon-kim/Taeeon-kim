@@ -6,7 +6,7 @@
 ## 프론트엔드 개발자 김태언 입니다. 👋 
 https://youngble.tistory.com/
 email : youngble@kakao.com
-notion 포트폴리오 : https://www.notion.so/1ed0a16b14f147e8acad61b888410d7c
+
 
 
 
