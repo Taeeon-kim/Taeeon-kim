@@ -15,7 +15,3 @@
 - 💬 Ask me about ... https://youngble.tistory.com/
 - 📫 How to reach me: ... youngble@kakao.com
 
-## Career
-
-- 스마트스코어  (23.04 ~ )
-- 세무통      (22.06 ~ 22.12)
