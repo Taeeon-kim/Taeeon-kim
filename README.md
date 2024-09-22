@@ -3,15 +3,18 @@
 ![Taeeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taeeon-kim&show_icons=true&theme=radical)
 
 ![react](https://img.shields.io/badge/react-35BDB2?style=flat&logo=react&logoColor=white)![js](https://img.shields.io/badge/javascript-FFFF00?style=flat&logo=javascript&logoColor=white)![typescript](https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white)![css3](https://img.shields.io/badge/css3-4682B4?style=flat&logo=css3&logoColor=white)![html5](https://img.shields.io/badge/html5-FF8C00?style=flat&logo=html5&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
-## 개발자 김태언 입니다. 👋 
-
+## 프론트엔드 개발자 김태언 입니다. 👋 
 
 
 <!--
 **Taeeon-kim/Taeeon-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 I’m currently learning ...  ![react](https://img.shields.io/badge/react-35BDB2?style=flat&logo=react&logoColor=white)  ![js](https://img.shields.io/badge/javascript-FFFF00?style=flat&logo=javascript&logoColor=white) ![typescript](https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white)  ![css3](https://img.shields.io/badge/css3-4682B4?style=flat&logo=css3&logoColor=white)  ![html5](https://img.shields.io/badge/html5-FF8C00?style=flat&logo=html5&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
+## 🌱 stack
+-  <strong>frontend</strong><br />
+    ![react](https://img.shields.io/badge/react-35BDB2?style=flat&logo=react&logoColor=white)  ![js](https://img.shields.io/badge/javascript-FFFF00?style=flat&logo=javascript&logoColor=white) ![typescript](https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white)  ![css3](https://img.shields.io/badge/css3-4682B4?style=flat&logo=css3&logoColor=white)  ![html5](https://img.shields.io/badge/html5-FF8C00?style=flat&logo=html5&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white) <br />
+- <strong>backend</strong><br />
+ <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 - 💬 Ask me about ... https://youngble.tistory.com/
 - 📫 How to reach me: ... youngble@kakao.com
 
